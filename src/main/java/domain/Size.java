@@ -1,5 +1,5 @@
 package domain;
 
 public enum Size {
-    EXTRE_SMALL, SMALL, MEDIUM, HIGH, EXTRA_HIGH
+    EXTRE_SMALL, SMALL, MEDIUM, LARGE, EXTRA_LARGE
 }

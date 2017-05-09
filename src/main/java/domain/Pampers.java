@@ -10,4 +10,5 @@ public class Pampers {
     private Size size;
     private Color color;
     private Gender gender;
+
 }
